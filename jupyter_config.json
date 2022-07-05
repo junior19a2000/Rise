@@ -2,6 +2,7 @@
     "VoilaConfiguration": {
         "enable_nbextensions": true,
         "template": "reveal",
+        "VoilaConfiguration.resources": "{'reveal': {'transition': 'zoom'}}",
         "extension_language_mapping": {
             ".py": "python"
         },
