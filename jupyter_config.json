@@ -8,5 +8,14 @@
         "language_kernel_mapping": {
             "python": "python3"
         }
+    },
+    "traitlet_configuration": {
+    "resources": {
+      "reveal": {
+        "scroll": false,
+        "theme": "simple",
+        "transition": "zoom"
+      }
     }
+  }
 }
