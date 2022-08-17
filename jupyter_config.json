@@ -2,6 +2,7 @@
     "VoilaConfiguration": {
         "enable_nbextensions": true,
         "template": "reveal",
+        "theme": "dark",
         "extension_language_mapping": {
             ".py": "python"
         },
