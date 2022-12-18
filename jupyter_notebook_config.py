@@ -1,1 +1,1 @@
-$ jupyter trust ShaftRelations.ipynb
+jupyter trust ShaftRelations.ipynb
