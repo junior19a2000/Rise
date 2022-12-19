@@ -5,3 +5,4 @@ Link1: Presentacion solo con RISE → https://mybinder.org/v2/gh/junior19a2000/R
 Link2: Presentacion con RISE y Voila → https://mybinder.org/v2/gh/junior19a2000/Rise.git/HEAD?urlpath=%2Fvoila%2Frender%2FTesis1.ipynb
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/junior19a2000/Rise.git/HEAD?urlpath=%2Fvoila%2Frender%2FTesis1.ipynb)
 Link3: Presentacion solo con RISE → https://mybinder.org/v2/gh/junior19a2000/Rise.git/HEAD?filepath=Tesis2.ipynb
+Link4: https://mybinder.org/v2/gh/junior19a2000/Rise.git/HEAD?filepath=Tesis1.ipynb
